@@ -6,4 +6,3 @@ O que eu vou aprender na Trybe:
 - JavaScript
 - Lógica de Programação
 - DOM
-- Web storage
