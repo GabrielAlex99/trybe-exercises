@@ -1,0 +1,42 @@
+.cor-primaria:hover{
+  border-style: outset;
+  display: inline-block;
+  background-color: red;
+  transition: 1s;
+  font-style: italic;
+}
+
+.cor-secundaria:hover{
+  border-style: outset;
+  display: inline-block;
+  background-color: green;
+  transition: 1s;
+}
+
+.cor-complementar:hover{
+  border-style: outset;
+  display: inline-block;
+  background-color: yellow;
+  transition: 1s;
+  padding: 20px;
+  font-style: italic;
+}
+
+.cor-escura:hover{
+  border-style: outset;
+  display: inline-block;
+  background-color: #1C1C1C;
+  transition: 1s;
+}
+
+.cor-clara:hover{
+  border-style: outset;
+  display: inline-block;
+  background-color: #EEE9E9;
+  transition: 1s;
+  font-style: italic;
+}
+
+.h3{
+  font-family: monospace;
+}

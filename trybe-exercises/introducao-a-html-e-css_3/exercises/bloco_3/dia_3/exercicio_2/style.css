@@ -1,0 +1,18 @@
+.texto-alinhado{
+  text-align: center;
+}
+
+li:hover{
+  background-color: red;
+  transition: 1s;
+  margin: 5px;
+  display: inline;
+}
+
+li:active{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.style{
+  list-style: none;
+}
